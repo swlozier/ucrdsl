@@ -6,16 +6,16 @@ Date Created: 6/30/2014
 Date Updated: 11/25/2014
  */
 
-html, body { height: 100%; margin: auto auto; width: 1000px; max-width: 96%; }
+html, body { height: 100%; margin: 26px auto 26px auto; width: 1000px; max-width: 96%; }
 
 body { font-family: "Arial", sans-serif; }
 
 #header a { text-decoration: none; color: #606060; font-size: 22px; }
 #header a:hover { color: #2d6cc0; text-decoration: none; }
 
-#nav-column { width: 240px; float: left;  }
+#nav { width: 240px; float: left;  }
 
-#content-column { width: 680px; float: right; }
+#content { width: 680px; float: right; }
 
 h1 { font-size: 20px; }
 
@@ -29,7 +29,6 @@ h4.bar { background: #2d6cc0; color: #fff; padding: 2px 10px; border-radius: 3px
 
 .graylink a { color: #606060; text-decoration: none; }
 .graylink a:hover { color: #2d6cc0; text-decoration: none; }
-
 .graytext { color: #606060; text-decoration: none; }
 
 img { max-width: 100%; height :auto; display:block; display: block; margin-left: auto; margin-right: auto }
@@ -43,8 +42,8 @@ figure figcaption { text-align: center; }
 video { width: 100%; max-width: 640px; height: auto; }
 
 @media only screen and (max-width: 768px) {
-#nav-column { width: 100%; }
-#content-column { width: 100%; }
+#nav { width: 100%; }
+#content { width: 100%; }
 }
 
 @media print {
