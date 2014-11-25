@@ -11,7 +11,4 @@ Hopefully this collection will help other researchers gain a quick foothold on t
 
 Please send any questions, remarks, or comments!
 
-Steve Anderson's contact info:
-sande010@ucr.edu
-stevenganderson.org
-@sgahistory
+Steve Anderson's contact info: sande010@ucr.edu | http://stevenganderson.org | @sgahistory
