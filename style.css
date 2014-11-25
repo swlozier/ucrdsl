@@ -2,12 +2,13 @@
 Filename: style.css
 Template: Two Column Responsive Website
 Author: Steven G Anderson
-Date Created: 6/30/14
+Date Created: 6/30/2014
+Date Updated: 11/25/2014
  */
 
 html, body { height: 100%; margin: auto auto; width: 1000px; max-width: 96%; }
 
-body { font-family: "angie-sans", sans-serif; }
+body { font-family: "Arial", sans-serif; }
 
 #header a { text-decoration: none; color: #606060; }
 #header a:hover { color: #2d6cc0; text-decoration: none; }
@@ -18,7 +19,7 @@ body { font-family: "angie-sans", sans-serif; }
 
 h1 { font-size: 26px; }
 
-p { font-family: "ff-dagny-web-pro"; font-size: 18px; line-height: 1.5em; }
+p { font-family: "Arial"; font-size: 18px; line-height: 1.5em; }
 
 .navlink a { text-decoration: none; color: #606060; font-size: 18px; line-height: 1.5em; }
 
